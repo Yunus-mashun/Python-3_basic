@@ -1,0 +1,62 @@
+{
+    "judul": "Rukun islam",
+    "jumlah": 5,
+    "rukun": [
+        "Syahadat",
+        "Sholat",
+        "Zakat",
+        "Haji",
+        "Puasa"
+    ],
+    "surah": 
+    [
+        {
+        "nomor": 1,
+        "nama": "Al-Fatihah",
+        "jumlah_ayat": 7,
+        "tempat_turun": "Makkah"
+    },
+    {   
+        "nomor": 2,
+        "nama": "Al-Baqarah",
+        "jumlah_ayat": 286,
+        "tempat_turun": "Madinah"
+    },
+    {   
+        "nomor": 2,
+        "nama": "Ali imran",
+        "jumlah_ayat": 200,
+        "tempat_turun": "Madinah"
+    }
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
